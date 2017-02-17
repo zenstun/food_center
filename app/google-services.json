@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093305362333",
+    "firebase_url": "https://food-center-fe5ac.firebaseio.com",
+    "project_id": "food-center-fe5ac",
+    "storage_bucket": "food-center-fe5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093305362333:android:6459fb3978e62ec3",
+        "android_client_info": {
+          "package_name": "com.hunre.food_center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093305362333-3sup2iu5vkptbmggj6pdfj6bs6493t63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hunre.food_center",
+            "certificate_hash": "5FC17DAD8AC7A48FBA92D506F8B3893B046E4758"
+          }
+        },
+        {
+          "client_id": "1093305362333-3vqrgrjqr1h4udv8pip5umnn9ha1fci6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRKil7Fvi0huu1eb8jNJT5msYncvvT93c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093305362333-3vqrgrjqr1h4udv8pip5umnn9ha1fci6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
